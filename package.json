@@ -1,0 +1,31 @@
+{
+  "name": "mean-stream",
+  "version": "0.0.0",
+  "description": "moving average or running mean over a json stream",
+  "main": "index.js",
+  "dependencies": {
+    "through2": "~0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bpostlethwaite/mean-stream.git"
+  },
+  "keywords": [
+    "running",
+    "mean",
+    "moving",
+    "average",
+    "stream",
+    "data"
+  ],
+  "author": "ben postlethwaite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bpostlethwaite/mean-stream/issues"
+  },
+  "homepage": "https://github.com/bpostlethwaite/mean-stream"
+}
